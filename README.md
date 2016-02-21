@@ -4,6 +4,10 @@ A collection of things I have learned. The topics vary between different languag
 This project was inspired by the [TIL project](https://github.com/thoughtbot/til) of thoughtbot.
 
 ## Categories
+* [Sysadmin](#sysadmin)
+
+### Sysadmin
+- [Analyse systemd services](sysadmin/analyse-systemd-services.md)
 
 ## License
 
